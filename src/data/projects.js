@@ -9,6 +9,7 @@ export const projects = [
     title: "FlagWarden — Telegram CTF Cybersecurity Learning Bot",
     featured: true,
     categories: ["Cybersecurity", "QA/Testing"],
+    image: flagwarden,
     description:
       "A Telegram-based CTF cybersecurity learning bot for safe and ethical practice, featuring daily/random challenges, quizzes, progressive hints, answer validation, scoring, streak tracking, safety guardrails, and stateful user progress.",
     highlights: [
@@ -34,6 +35,7 @@ export const projects = [
   {
     title: "Personal Portfolio Website",
     categories: ["Web", "QA/Testing"],
+    image: profile,
     description:
       "A responsive portfolio website redesigned to showcase my cybersecurity, QA testing, web security, CTF, and software development background.",
     highlights: [

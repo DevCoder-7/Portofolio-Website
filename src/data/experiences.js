@@ -29,11 +29,13 @@ export const experiences = [
 ];
 
 export const achievements = [
-  "1st Place POLRI CTF 2026",
-  "Finalist WreckIT! 7.0",
-  "Finalist — FINDIT! CTF 2026, UGM",
-  "Cisco Introduction to Cybersecurity",
-  "Best Staff — Open House Fasilkom UI 2025",
+  "1st Place POLRI CTF 2026 Issued by E-Sport Kapolri Cup in collaboration with SiberLab.id · Aug 2026",
+  "Finalist WreckIT! 7.0 Issued by Politeknik Siber dan Sandi Negara · Aug 2026",
+  "Top 10 Honorable Mention OpenArena Zero Day CTF 2026 Issued by PT. Digital Solusi Grup · Jun 2026",
+  "Finalist FINDIT! CTF 2026 Issued by Universitas Gadjah Mada · May 2026",
+  "Top 62 Team in Global Cyber Skills Benchmark 2026: Project Nightfall Issued by Hack The Box · May 2026",
+  "Cisco Introduction to Cybersecurity Issued by Cisco · Oct 2025",
+  "Best Staff of Digital Engagement & Collaborations Issued by Open House Fasilkom UI 2025",
 ];
 
 export const valueProps = [
