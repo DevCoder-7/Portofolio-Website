@@ -29,12 +29,10 @@ export const experiences = [
 ];
 
 export const achievements = [
+  "1st Place POLRI CTF 2026",
+  "Finalist WreckIT! 7.0",
+  "Finalist — FINDIT! CTF 2026, UGM",
   "Cisco Introduction to Cybersecurity",
-  "Schematics ITS Bootcamp Web Development Basic & Advance",
-  "Sololearn Python Developer",
-  "Top 15 National Finalist — FINDIT! CTF 2026, UGM",
-  "Top 60 Team — ARA CTF 7.0 2026, ITS",
-  "Team Participant — Arkavidia CTF 10.0, ITB",
   "Best Staff — Open House Fasilkom UI 2025",
 ];
 
