@@ -1,6 +1,8 @@
 import project1 from "../assets/project1.jpg";
 import project2 from "../assets/project2.jpg";
 import project3 from "../assets/project3.jpg";
+import profile from "../assets/profile.jpg";
+import flagwarden from "../assets/flagwarden.jpg";
 
 export const projectFilters = ["All", "Cybersecurity", "QA/Testing", "Web", "Mobile Prototype"];
 
